@@ -6,6 +6,6 @@ int main(){
     umur = 20;
 
     cout << "ini patrick" << endl;
-    cout << 123 << endl;
+    cout << 234 << endl;
     cout << umur;
 }
